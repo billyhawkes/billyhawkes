@@ -1,9 +1,24 @@
-# Billy Hawkes
-Hey all! I am a Full Stack Software Developer and Computer Science Student from Toronto, Canada. Since I was a child I have been fascinated by and have engaged with various technological outlets. Nowadays I am dedicated to creating, learning, and making an impact through digital solutions.
+## 👋 About Me
+- 🖥️ Full-stack software developer
+- 🎓 Studying Computer Science at University of London
+- 🏙️ Living in Toronto, Canada
 
-### Favourite Technologies
-- React
-- Typescript
-- PostgreSQL
-- ExpressJS
-- Figma
+## ⚡ Favourite Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+## 📫 Find me
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>][twitter]
+
+## 📈 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billyhawkes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billyhawkes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[twitter]: https://twitter.com/hawkes_billy
+[linkedin]: https://www.linkedin.com/in/billy-hawkes/
