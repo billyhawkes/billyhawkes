@@ -17,8 +17,17 @@
 [<img align="left" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>][twitter]
 
 ## 📈 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billyhawkes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billyhawkes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr>
+    <td>
+        <img alt="Billy Hawkes github stats" src="https://github-readme-stats.vercel.app/api?username=billyhawkes&show_icons=true">
+    </td>
+    <td>
+        <img alt="Billy Hawkes github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyhawkes&layout=compact">
+    </td>
+  </tr>
+</table>
 
 [twitter]: https://twitter.com/hawkes_billy
 [linkedin]: https://www.linkedin.com/in/billy-hawkes/
